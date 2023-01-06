@@ -9,5 +9,5 @@ cd newsproject
 ```
 
 ```sh
-cd newsproject
+http://api.mediastack.com/v1/news
 ```
