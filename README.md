@@ -1,4 +1,4 @@
-#Django project that can generate news in your country using API
+<h3>Django project that can generate news in your country using API</h3>
 ```sh
 $ pip install django==4.1.4
 ```
